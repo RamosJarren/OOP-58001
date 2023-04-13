@@ -1,8 +1,6 @@
-#Computing Problem 2. Construct a GUI and create the Python programs (using Pycharm/ Tkinter module in creating widgets)
-# that allow you to type in your Given Name, Middle Name, and Last Name inside the three consecutive Entry widgets and
-# display the full name inside the last Entry widget by clicking "Show Full Name" button. (Note: The output window must
-# be exactly the same as below image)
+#Ramos, Jarren Leigh Midterm Exam Problem 2
 from tkinter import *
+
 class Exam2:
     def __init__(self,window):
         self.lblA = Label(window, text="My Full Name")
